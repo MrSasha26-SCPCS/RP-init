@@ -14,7 +14,6 @@ SCP: CS file for plugins on lua
 * Tips;
 * AutoSpawn;
 * WaitingPVP;
-* SCP173CageBoxSpawner;
 * SCP-1162;
 * TutorialClass;
 * SerpentsHand;
