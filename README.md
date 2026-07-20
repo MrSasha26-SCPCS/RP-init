@@ -20,4 +20,5 @@ SCP: CS file for plugins on lua
 * NewChaosInsurgency;
 * SCP420J+;
 * Cup+;
-* SCP173Cage.
+* SCP173Cage;
+* SCP096Bag.
